@@ -1,1 +1,1 @@
-worker: python waddles_bot.py
+worker: python test.py
