@@ -1,5 +1,3 @@
-os
+os-win
 discord
-dotenv
-random
-csv
+python-dotenv
